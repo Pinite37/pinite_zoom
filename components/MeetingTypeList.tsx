@@ -121,7 +121,7 @@ const MeetingTypeList = () => {
 
           <div className="flex w-full flex-col gap-2.5">
             <label className="text-base text-normal leading-[22px] text-sky-2">
-              Choisissz la date et l'heure
+              Choisissez date et heure
             </label>
             <ReactDatePicker
               selected={values.datetime}
